@@ -17,5 +17,9 @@
   "homepage": "https://github.com/MaetDol/hello-world-javascript-action#readme",
   "engines": {
     "node": "^16.15.0"
+  },
+  "dependencies": {
+    "@actions/core": "^1.8.0",
+    "@actions/github": "^5.0.1"
   }
 }
