@@ -1,0 +1,21 @@
+{
+  "name": "hello-world-javascript-action",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaetDol/hello-world-javascript-action.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaetDol/hello-world-javascript-action/issues"
+  },
+  "homepage": "https://github.com/MaetDol/hello-world-javascript-action#readme",
+  "engines": {
+    "node": "^16.15.0"
+  }
+}
